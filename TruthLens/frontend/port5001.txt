@@ -1,0 +1,3 @@
+FINDSTR: Cannot open ;
+FINDSTR: Cannot open netstat
+FINDSTR: Cannot open -ano

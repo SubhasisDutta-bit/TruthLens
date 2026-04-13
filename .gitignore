@@ -1,0 +1,15 @@
+/TruthLens/backend/node_modules/
+/TruthLens/frontend/node_modules/
+/TruthLens/backend/.env
+/TruthLens/frontend/.env
+/TruthLens/frontend/dist/
+/TruthLens/frontend/.vite/
+/TruthLens/frontend/.cache/
+*.log
+/.vscode/
+/FRONTEND/
+/calculator/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

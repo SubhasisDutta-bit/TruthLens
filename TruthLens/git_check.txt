@@ -1,0 +1,6 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E6E3-610C
+
+ Directory of c:\Users\dutta\OneDrive\Desktop\PROJ\TruthLens
+
+File Not Found
